@@ -1,1 +1,1 @@
-My first automatic Jenkins build!
+Testing GitHub webhook integration
